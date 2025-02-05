@@ -1,4 +1,6 @@
 # hifz-juz-completion-certificates
+![JUZ completion Template_page-0001](https://github.com/user-attachments/assets/d965ad5e-925f-4fd2-9e03-2fe33d8b8eb4)
+
 ```python
 juz_data = [
     {"juz": 1,  "arabic": "آلم"},
